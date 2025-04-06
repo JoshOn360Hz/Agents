@@ -1,4 +1,4 @@
-##  app to view Valorant agents
+##  App to view Valorant agents
 ## Features
 - 1 : Randomise agents
 - 2 : view agent abilities
